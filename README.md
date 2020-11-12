@@ -10,3 +10,11 @@
 
 The processing is currently done on one of my articles and you can use any text and process it as input data.
 My Input Data : [Introuducing Basic Concepts of Data Science](https://ceckiau.ir/blog/data-science-concepts/)
+
+# Requirements
+
+This codes is built using Python 3.7.5, and utilizes the following packages : 
+- python-docx 0.8.10
+- docx2txt 0.8
+- pandas 1.1.4
+- strings 0.1.2
