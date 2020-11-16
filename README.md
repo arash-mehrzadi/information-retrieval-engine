@@ -7,7 +7,7 @@
 Information Retrieval (IR) can be defined as a software program that deals with the organization, storage, retrieval, and evaluation of information from document repositories, particularly textual information. Information Retrieval is the activity of obtaining material that can usually be documented on an unstructured nature i.e. usually text which satisfies an information need from within large collections which is stored on computers. For example, Information Retrieval can be when a user enters a query into the system.
 
 In this project, I implement various data recovery techniques with all the operational details and try not to use existing modules and implement all functions.
-I implement different information retrieval algorithms and you can check the report of how each algorithm works in the [Report Folder](https://github.com/arash-mehrzadi/information-retrieval-engine/blob/main/I_R_E.ipynb)
+I implement different information retrieval algorithms and you can check the report of how each algorithm works in this [Link](https://github.com/arash-mehrzadi/information-retrieval-engine/blob/main/I_R_E.ipynb)
 
 ### ! The functions of the Import Data section are implemented in such a way that you enter all the documents in (.docx) Format into the project by entering the path of your document folder.
 
